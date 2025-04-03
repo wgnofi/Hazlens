@@ -2,6 +2,8 @@
 
 HazLens is an Android application that allows users to apply chilling, unsettling filters to their images. It utilizes WorkManager to handle background image processing, ensuring a smooth and reliable user experience.
 
+Inspired from blur-o-matic 😌💗
+
 ## Features
 
 * **Eerie Image Filters:**
